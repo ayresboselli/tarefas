@@ -1,0 +1,18 @@
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
+.cabecalho {
+  border-bottom: 1px solid #aaa;
+}
+.cabecalho h1 {
+  font-size: 2.1rem;
+  font-weight: 620;
+}
+.footer {
+  background-color: #eee;
+}
+.botao {
+  display: inline;
+  cursor: pointer;
+}
