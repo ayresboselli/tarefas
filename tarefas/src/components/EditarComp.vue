@@ -113,7 +113,7 @@ export default {
             <div class="card-body">
                 
                 <div class="mt-2">
-                    <label>Titulo</label>
+                    <label>Titulo (obrigatório)</label>
                     <input v-model="tarefa.titulo" class="form-control">
                 </div>
                 
